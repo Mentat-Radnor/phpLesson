@@ -29,6 +29,7 @@ $b = $a - $b;
 $a = $a - $b;
 
 echo $a . $b;
+
 ?>
 
 <!DOCTYPE html>
